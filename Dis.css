@@ -14,12 +14,12 @@ div {
     }
 img{
     height: 250px;
-    margin-left: 580px;
+    margin-left: 570px;
     margin-top: 150px;
 }
 input{
     border-radius: 50px;
-    margin-left: 655px;
+    margin-left: 645px;
     margin-top: 20px;
     background-color: rgb(61, 137, 204);
     box-shadow: 2px 2px black;
@@ -31,7 +31,7 @@ input{
 h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(29, 93, 150);
-    margin-left: 610px;
+    margin-left: 600px;
     
 }
 a{
