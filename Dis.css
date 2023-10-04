@@ -3,10 +3,19 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+div {
+    width: 96.1%;
+    border: 5px solid;
+    padding: 30px;
+    margin-top: -10px;
+    margin-left: -10px;
+    background-color: black;
+    position:fixed;
+    }
 img{
     height: 250px;
-    padding-left: 580px;
-    padding-top: 150px;
+    margin-left: 580px;
+    margin-top: 150px;
 }
 input{
     border-radius: 50px;
@@ -24,4 +33,13 @@ h2{
     color: rgb(29, 93, 150);
     margin-left: 610px;
     
+}
+a{
+    color: aliceblue;
+    margin: 15px;
+    font-size: large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    color: yellow;
 }
