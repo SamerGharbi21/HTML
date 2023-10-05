@@ -1,7 +1,7 @@
 body{
     background-image: url("css5.png");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 120%;
 }
 div {
     width: 96.1%;
@@ -14,12 +14,12 @@ div {
     }
 img{
     height: 250px;
-    margin-left: 570px;
-    margin-top: 150px;
+    margin-left: 850px;
+    margin-top: 250px;
 }
 input{
     border-radius: 50px;
-    margin-left: 645px;
+    margin-left: 920px;
     margin-top: 20px;
     background-color: rgb(61, 137, 204);
     box-shadow: 2px 2px black;
@@ -31,7 +31,8 @@ input{
 h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(29, 93, 150);
-    margin-left: 600px;
+    margin-top: 30px;
+    margin-left: 875.5px;
     
 }
 a{
